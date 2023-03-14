@@ -5,7 +5,7 @@ Composition Vector Tree, or CVTree, is a useful tool in determining the phylogen
 
 On top of parallelisation, this project focusses on utilisation of programming techniques to optimise cache access. This was achieved via refactoring code as well as employing suitable data structures where neccessary( e.g. vector of pairs).
 
-Please read the attached report for a more detailed explaination.
+Please read the attached report for a more detailed explanation.
 
 * `original.cpp` contains the original poor performance sequential implementation  
 * `improved.cpp` contains the parallelised and optimised program
